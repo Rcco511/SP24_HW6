@@ -4,7 +4,6 @@ import math
 from scipy.optimize import fsolve
 import random as rnd
 
-
 # endregion
 
 # region class definitions
